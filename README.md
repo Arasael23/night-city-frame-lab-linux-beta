@@ -2,7 +2,7 @@
 
 A cut-down Linux version of [Night City Frame Lab](https://github.com/Arasael23/night-city-frame-lab), the stutter and performance recorder for modded Cyberpunk 2077. For Steam with Proton, Heroic and Lutris.
 
-**This is a beta.** It hasn't been run on a real Linux game install yet, so feedback from players decides what gets fixed. If you try it, please say how it went on the [Nexus page](https://www.nexusmods.com/cyberpunk2077/mods/36756) (Posts or Bugs) or in this repository's Issues, with your distro, Steam / Heroic / Lutris, the Proton or Wine version, your graphics card, what the Record tab said, and the logs the README in the zip lists.
+**This is a beta**, so feedback from players decides what gets fixed. If you try it, please say how it went on the [Nexus page](https://www.nexusmods.com/cyberpunk2077/mods/36756) (Posts or Bugs) or in this repository's Issues, with your distro, Steam / Heroic / Lutris, the Proton or Wine version, your graphics card, what the Record tab said, and the logs the README in the zip lists.
 
 Download: the [releases](https://github.com/Arasael23/night-city-frame-lab-linux-beta/releases) here, or "Night City Frame Lab 2.5L (Linux beta)" under Optional files on [Nexus](https://www.nexusmods.com/cyberpunk2077/mods/36756) (the same zip).
 
