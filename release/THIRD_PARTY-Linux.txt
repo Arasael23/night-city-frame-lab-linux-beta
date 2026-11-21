@@ -1,0 +1,24 @@
+Third-party parts used by Night City Frame Lab (Linux beta)
+===========================================================
+
+uPlot 1.6.32 - Leon Sorokin, MIT licence (embedded in the app).
+
+Saira - The Saira Project Authors, SIL Open Font License 1.1 (400, 500, 600, 700, Latin and
+Latin Extended, from Fontsource 5.3.0, embedded in the app; licences/Saira-OFL.txt).
+JetBrains Mono - The JetBrains Mono Project Authors, SIL Open Font License 1.1 (400, 500, 600, Latin
+and Latin Extended, from Fontsource 5.3.0, embedded in the app; licences/JetBrains-Mono-OFL.txt).
+Jura - The Jura Project Authors, SIL Open Font License 1.1 (500, 600, 700, Latin, from Fontsource
+5.3.0, embedded in the app; the FRAME LAB logo is drawn from its letters, the two A from its Greek
+capital lambda; licences/Jura-OFL.txt).
+
+MinHook - Tsuda Kageyu, BSD-2-Clause (inside HitchRecorder.dll; licence next to it).
+
+HitchRecorder's script timing is original code. Ideas and data layouts it relies on:
+  - redscript-dap by jekky (MIT): the game binds each script function to its source file at load,
+    which is how a function is traced back to a .reds file.
+  - LuaJIT (Mike Pall, MIT) as built into Cyber Engine Tweaks (yamashi and contributors, MIT): the
+    VM's entry for protected calls and its function/prototype layout, read to time CET mods.
+  Nothing of these projects is copied into HitchRecorder.
+
+The game's own options are read through Cyber Engine Tweaks' GameOptions (yamashi and contributors,
+MIT) from Frame Lab's small CET mod (FrameLabMarkers/cet).
